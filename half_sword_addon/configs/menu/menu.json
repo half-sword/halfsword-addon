@@ -1,0 +1,9 @@
+{
+   "label":"Half Sword",
+   "items":[
+      {
+         "label":"Buttonizer",
+         "command":"import buttonizer.main; buttonizer.main.show()"
+      }
+   ]
+}

@@ -1,0 +1,3 @@
+buttonizer @ git+https://github.com/hannesdelbeke/buttonizer@main
+unimenu
+pyyaml
